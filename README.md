@@ -12,7 +12,7 @@ i recently built <a href = "https://codedaily.tech">codedaily</a>. i'm currently
 
 <h4>my tech stack</h4>
 
-`react` `node.js` `express.js` `material ui` `javascript`
+`react` `node.js` `express.js` `mongodb` `material ui` `javascript`
 
 <h4>things i love</h4>
 
