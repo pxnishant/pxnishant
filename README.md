@@ -7,16 +7,19 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
-i recently built <a href = "https://codedaily.tech">codedaily</a>. i'm currently learning web dev.
+<a href = "https://codedaily.tech">codedaily</a> - a website that helps you be consistent with leetcode.
+
+<a href = "https://chromewebstore.google.com/detail/codeforces-notes/opblhodpkchjjlphbdkkcklioeekpmjc">codeforces notes</a> - a chrome extension that helps you take notes on codeforces.
 
 
 <h4>my tech stack</h4>
 
-`react` `node.js` `express.js` `mongodb` `material ui` `javascript`
+i have worked with `mern`, `flask`, `fastAPI`, `tailwindcss`, `mysql` and many more technologies.
 
+my true skill as an engineer however is my ability to `adapt` and `learn`.
 <h4>things i love</h4>
 
-`competitive programming` `c++`
+`building stuff` `competitive programming` `maths` 
 
 </div>
 
